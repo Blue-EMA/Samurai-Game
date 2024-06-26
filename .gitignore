@@ -1,0 +1,7 @@
+# Ignore all .pem files
+*.pem
+
+# Ignore .png files except those in nature_5 and samurai folders
+*.png
+!assets/nature_5/**/*.png
+!assets/samurai/**/*.png
