@@ -1,6 +1,5 @@
 # Samurai Game
 Samurai Game is a two player game.
-Foobar is a Python library for dealing with word pluralization.
 
 ## Website
 
